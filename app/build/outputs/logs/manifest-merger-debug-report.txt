@@ -1,0 +1,316 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:2:1-48:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\0aa50d858cd44fded3543db9af6da19a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\860e41e931c581b448267e4e27fb1e08\AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\09dc9535b371ccd897b7844eb9a3f942\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ba80e1ed10db3d330ef6b7505b16aef2\AndroidManifest.xml:2:1-21:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\154bf2e6b8e87c441f30aa1f3859f3f0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.firebaseui:firebase-ui-storage:4.3.1] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\bbb314b3126f994e5976f617a4365a9a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\81f144ba65674c1750ecc37cb0d0938b\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\7d25c5c17da0416db37a048db8730f95\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\db8c1b8138e2576fc2e38652e09a940e\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\15a7ffad3a65c7074afbf73c69511635\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ff527af14ebd785618e3cf60ea210751\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\196a8d5ea0e07f235f0c7170c5c7c2d3\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\d40ac1bdfdd81c5243d26d23cfcf1da5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common:16.0.4] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\cf49b8b87e643d4f7879f7c24539d59e\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\5212bf4802f8460ba81ba4688c432d21\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\acf81bd6a9ac6a11608fd3f7e1aa0519\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\99a674ef78bb70707a003a63deaa18d5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\f6702d8cef50f8e78ca30ab826f6d21c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\af5e7f9e3faf9345d0f8b499f6a86db7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\36fd81b9b07eb368e034c2b465096d09\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\709b3a2bbc7e84e17bbf980676dff6e2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\d735d5d845cb73a7a74f3428604672d8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\559976f6d7deb8d466717699c1919cb4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\950853999c94416345b2f6f0f51e9c03\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\74f45cbfa6e43b8631f2dbf82124e1e9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\64c8c2010798eb73b493cdb32ecec13f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\48563f7175c56665d3afaa089217c42d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\6aa96f24348f304b87f17bff6b29b1d1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\acee9e0694e727c2f3408d31fa58b9d7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ef8fbd4f35626e61286d6a856e135ba5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\0e555a59b4e76ec9089ce39087adb038\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\65f3ee384ed0799f039b45cab1071670\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\749e4d2621aa261f3d33007b341eb116\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\666bc7c0cc4594a012b66d076e9aef1a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\d849967d20d1da14fe88a23914501bd4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\703bb7a1595a0c9b8c04911545dc8c7e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\35afb0cd77435ccc5a141c3a5532abf5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\b37d7aa2dffb9901f13d2f797689bc5c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\3ac223f3744b263a0a78570c34ed4e2b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\e4a953717ca6d7179aa9e7da69f4f355\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\c88d90d6d8c5fa0245594e797b2c8d4e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\c2f4f030700e6c9a3379bdf08416950f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\6aaa64c1e465b98e3ecb06bd641e52ab\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ce92ace4aef569ab44974c4b20b5b6e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\e8acdd522447978836d06cd79928ac25\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:11:22-78
+application
+ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:13:5-46:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\860e41e931c581b448267e4e27fb1e08\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\860e41e931c581b448267e4e27fb1e08\AndroidManifest.xml:30:5-36:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\09dc9535b371ccd897b7844eb9a3f942\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\09dc9535b371ccd897b7844eb9a3f942\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ba80e1ed10db3d330ef6b7505b16aef2\AndroidManifest.xml:13:5-19:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ba80e1ed10db3d330ef6b7505b16aef2\AndroidManifest.xml:13:5-19:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\81f144ba65674c1750ecc37cb0d0938b\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\81f144ba65674c1750ecc37cb0d0938b\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\7d25c5c17da0416db37a048db8730f95\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\7d25c5c17da0416db37a048db8730f95\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\db8c1b8138e2576fc2e38652e09a940e\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\db8c1b8138e2576fc2e38652e09a940e\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ff527af14ebd785618e3cf60ea210751\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ff527af14ebd785618e3cf60ea210751\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\d40ac1bdfdd81c5243d26d23cfcf1da5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\d40ac1bdfdd81c5243d26d23cfcf1da5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:16.0.4] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\cf49b8b87e643d4f7879f7c24539d59e\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.4] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\cf49b8b87e643d4f7879f7c24539d59e\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\5212bf4802f8460ba81ba4688c432d21\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\5212bf4802f8460ba81ba4688c432d21\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\acf81bd6a9ac6a11608fd3f7e1aa0519\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\acf81bd6a9ac6a11608fd3f7e1aa0519\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\65f3ee384ed0799f039b45cab1071670\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\65f3ee384ed0799f039b45cab1071670\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\749e4d2621aa261f3d33007b341eb116\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\749e4d2621aa261f3d33007b341eb116\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\d849967d20d1da14fe88a23914501bd4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\d849967d20d1da14fe88a23914501bd4\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\65f3ee384ed0799f039b45cab1071670\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:19:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:29:9-31:55
+	android:value
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:31:13-52
+	android:name
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:30:13-58
+activity#com.example.maps1.HomeActivity
+ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:34:9-42:20
+	android:label
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:35:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:40:27-74
+activity#com.example.maps1.MapsActivity
+ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:43:9-44:86
+	android:configChanges
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:44:13-74
+	android:name
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml:43:19-47
+uses-sdk
+INJECTED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\0aa50d858cd44fded3543db9af6da19a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\0aa50d858cd44fded3543db9af6da19a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\860e41e931c581b448267e4e27fb1e08\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\860e41e931c581b448267e4e27fb1e08\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\09dc9535b371ccd897b7844eb9a3f942\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\09dc9535b371ccd897b7844eb9a3f942\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ba80e1ed10db3d330ef6b7505b16aef2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ba80e1ed10db3d330ef6b7505b16aef2\AndroidManifest.xml:6:5-8:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\154bf2e6b8e87c441f30aa1f3859f3f0\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\154bf2e6b8e87c441f30aa1f3859f3f0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-storage:4.3.1] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\bbb314b3126f994e5976f617a4365a9a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-storage:4.3.1] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\bbb314b3126f994e5976f617a4365a9a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\81f144ba65674c1750ecc37cb0d0938b\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\81f144ba65674c1750ecc37cb0d0938b\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\7d25c5c17da0416db37a048db8730f95\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\7d25c5c17da0416db37a048db8730f95\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\db8c1b8138e2576fc2e38652e09a940e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\db8c1b8138e2576fc2e38652e09a940e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\15a7ffad3a65c7074afbf73c69511635\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\15a7ffad3a65c7074afbf73c69511635\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ff527af14ebd785618e3cf60ea210751\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ff527af14ebd785618e3cf60ea210751\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\196a8d5ea0e07f235f0c7170c5c7c2d3\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\196a8d5ea0e07f235f0c7170c5c7c2d3\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\d40ac1bdfdd81c5243d26d23cfcf1da5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\d40ac1bdfdd81c5243d26d23cfcf1da5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.4] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\cf49b8b87e643d4f7879f7c24539d59e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.4] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\cf49b8b87e643d4f7879f7c24539d59e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\5212bf4802f8460ba81ba4688c432d21\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\5212bf4802f8460ba81ba4688c432d21\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\acf81bd6a9ac6a11608fd3f7e1aa0519\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\acf81bd6a9ac6a11608fd3f7e1aa0519\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\99a674ef78bb70707a003a63deaa18d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\99a674ef78bb70707a003a63deaa18d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\f6702d8cef50f8e78ca30ab826f6d21c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\f6702d8cef50f8e78ca30ab826f6d21c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\af5e7f9e3faf9345d0f8b499f6a86db7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\af5e7f9e3faf9345d0f8b499f6a86db7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\36fd81b9b07eb368e034c2b465096d09\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\36fd81b9b07eb368e034c2b465096d09\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\709b3a2bbc7e84e17bbf980676dff6e2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\709b3a2bbc7e84e17bbf980676dff6e2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\d735d5d845cb73a7a74f3428604672d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\d735d5d845cb73a7a74f3428604672d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\559976f6d7deb8d466717699c1919cb4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\559976f6d7deb8d466717699c1919cb4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\950853999c94416345b2f6f0f51e9c03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\950853999c94416345b2f6f0f51e9c03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\74f45cbfa6e43b8631f2dbf82124e1e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\74f45cbfa6e43b8631f2dbf82124e1e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\64c8c2010798eb73b493cdb32ecec13f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\64c8c2010798eb73b493cdb32ecec13f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\48563f7175c56665d3afaa089217c42d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\48563f7175c56665d3afaa089217c42d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\6aa96f24348f304b87f17bff6b29b1d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\6aa96f24348f304b87f17bff6b29b1d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\acee9e0694e727c2f3408d31fa58b9d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\acee9e0694e727c2f3408d31fa58b9d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ef8fbd4f35626e61286d6a856e135ba5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ef8fbd4f35626e61286d6a856e135ba5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\0e555a59b4e76ec9089ce39087adb038\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\0e555a59b4e76ec9089ce39087adb038\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\65f3ee384ed0799f039b45cab1071670\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\65f3ee384ed0799f039b45cab1071670\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\749e4d2621aa261f3d33007b341eb116\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\749e4d2621aa261f3d33007b341eb116\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\666bc7c0cc4594a012b66d076e9aef1a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\666bc7c0cc4594a012b66d076e9aef1a\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\d849967d20d1da14fe88a23914501bd4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\d849967d20d1da14fe88a23914501bd4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\703bb7a1595a0c9b8c04911545dc8c7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\703bb7a1595a0c9b8c04911545dc8c7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\35afb0cd77435ccc5a141c3a5532abf5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\35afb0cd77435ccc5a141c3a5532abf5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\b37d7aa2dffb9901f13d2f797689bc5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\b37d7aa2dffb9901f13d2f797689bc5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\3ac223f3744b263a0a78570c34ed4e2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\3ac223f3744b263a0a78570c34ed4e2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\e4a953717ca6d7179aa9e7da69f4f355\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\e4a953717ca6d7179aa9e7da69f4f355\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\c88d90d6d8c5fa0245594e797b2c8d4e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\c88d90d6d8c5fa0245594e797b2c8d4e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\c2f4f030700e6c9a3379bdf08416950f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\c2f4f030700e6c9a3379bdf08416950f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\6aaa64c1e465b98e3ecb06bd641e52ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\6aaa64c1e465b98e3ecb06bd641e52ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ce92ace4aef569ab44974c4b20b5b6e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ce92ace4aef569ab44974c4b20b5b6e7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\e8acdd522447978836d06cd79928ac25\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\e8acdd522447978836d06cd79928ac25\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KEYA\AndroidStudioProjects\Maps1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\860e41e931c581b448267e4e27fb1e08\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ba80e1ed10db3d330ef6b7505b16aef2\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ba80e1ed10db3d330ef6b7505b16aef2\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\15a7ffad3a65c7074afbf73c69511635\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\15a7ffad3a65c7074afbf73c69511635\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\860e41e931c581b448267e4e27fb1e08\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\860e41e931c581b448267e4e27fb1e08\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ba80e1ed10db3d330ef6b7505b16aef2\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ba80e1ed10db3d330ef6b7505b16aef2\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\15a7ffad3a65c7074afbf73c69511635\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\15a7ffad3a65c7074afbf73c69511635\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\860e41e931c581b448267e4e27fb1e08\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\860e41e931c581b448267e4e27fb1e08\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\860e41e931c581b448267e4e27fb1e08\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\860e41e931c581b448267e4e27fb1e08\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\860e41e931c581b448267e4e27fb1e08\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\860e41e931c581b448267e4e27fb1e08\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\860e41e931c581b448267e4e27fb1e08\AndroidManifest.xml:34:13-50
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ba80e1ed10db3d330ef6b7505b16aef2\AndroidManifest.xml:14:9-18:19
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ba80e1ed10db3d330ef6b7505b16aef2\AndroidManifest.xml:14:18-89
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ba80e1ed10db3d330ef6b7505b16aef2\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ba80e1ed10db3d330ef6b7505b16aef2\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ba80e1ed10db3d330ef6b7505b16aef2\AndroidManifest.xml:16:17-111
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ff527af14ebd785618e3cf60ea210751\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ff527af14ebd785618e3cf60ea210751\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ff527af14ebd785618e3cf60ea210751\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\ff527af14ebd785618e3cf60ea210751\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.4] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\cf49b8b87e643d4f7879f7c24539d59e\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.4] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\cf49b8b87e643d4f7879f7c24539d59e\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.4] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\cf49b8b87e643d4f7879f7c24539d59e\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.4] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\cf49b8b87e643d4f7879f7c24539d59e\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.4] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\cf49b8b87e643d4f7879f7c24539d59e\AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\acf81bd6a9ac6a11608fd3f7e1aa0519\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\acf81bd6a9ac6a11608fd3f7e1aa0519\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\KEYA\.gradle\caches\transforms-2\files-2.1\acf81bd6a9ac6a11608fd3f7e1aa0519\AndroidManifest.xml:24:13-58
